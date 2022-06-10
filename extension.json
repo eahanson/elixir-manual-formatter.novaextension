@@ -1,0 +1,23 @@
+{
+  "activationEvents": "*",
+  "categories": ["commands"],
+  "commands": {
+    "extensions": [
+      {
+        "title": "Format this Elixir file",
+        "command": "elixir-manual-formatter.formatFile"
+      },
+      {
+        "title": "Format all Elixir files in project",
+        "command": "elixir-manual-formatter.formatProject"
+      }
+    ]
+  },
+  "description": "Sometimes the Elixir extension fails to format one or all files. This extension provides a command to format the current file and a command to format all files.",
+  "entitlements": {"process": true},
+  "identifier": "eahanson.elixir-manual-formatter",
+  "main": "main.js",
+  "name": "Elixir Manual Formatter",
+  "organization": "Erik Hanson",
+  "version": "1.0"
+}
