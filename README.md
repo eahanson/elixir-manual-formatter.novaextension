@@ -1,5 +1,6 @@
-Sometimes the Elixir extension fails to format one or all files.
-This extension provides a command to format the current file and a command to format all files.
+Sometimes the ElixirLS extension fails to automatically format one or all files.
+This extension provides a command to format the current file, and a command to format all files.
+It intentionally doesn't try to format on save because the ElixirLS extension normally does that correctly.
 
 ## Usage
 

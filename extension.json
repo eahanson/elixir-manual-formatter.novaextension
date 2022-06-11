@@ -14,7 +14,7 @@
       }
     ]
   },
-  "description": "Manually format a single Elixir file, or format the entire project.",
+  "description": "Format a single Elixir file or all Elixir files in the project.",
   "entitlements": {"process": true},
   "homepage": "https://github.com/eahanson/elixir-manual-formatter.novaextension",
   "identifier": "eahanson.elixir-manual-formatter",
