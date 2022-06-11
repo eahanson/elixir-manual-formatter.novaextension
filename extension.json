@@ -1,5 +1,6 @@
 {
   "activationEvents": "*",
+  "bugs": "https://github.com/eahanson/elixir-manual-formatter.novaextension/issues",
   "categories": ["commands"],
   "commands": {
     "extensions": [
@@ -13,11 +14,13 @@
       }
     ]
   },
-  "description": "Sometimes the Elixir extension fails to format one or all files. This extension provides a command to format the current file and a command to format all files.",
+  "description": "Manually format a single Elixir file, or format the entire project.",
   "entitlements": {"process": true},
+  "homepage": "https://github.com/eahanson/elixir-manual-formatter.novaextension",
   "identifier": "eahanson.elixir-manual-formatter",
   "main": "main.js",
   "name": "Elixir Manual Formatter",
   "organization": "Erik Hanson",
+  "repository": "https://github.com/eahanson/elixir-manual-formatter.novaextension",
   "version": "1.0"
 }
