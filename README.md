@@ -10,7 +10,7 @@ To run Elixir Manual Formatter:
 - Select the **Editor → Elixir Manual Formatter → Format all Elixir files in project** menu item; or
 - Open the command palette and type `Elixir Manual Formatter`
 
-## Nova extensions I’ve written
+## Other Nova extensions you might like :)
 
 - **Document Sections** lets you jump around to various sections in a text document using a customizable marker
   (typically a code comment in a certain format).
